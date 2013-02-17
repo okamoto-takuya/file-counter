@@ -1,0 +1,9 @@
+this is src#1
+this is src#2
+this is src#3
+
+// this is comment#1
+// this is comment#2
+// this is comment#3
+// this is comment#4
+// src = 3, comment = 5, blank = 1, total = 9
